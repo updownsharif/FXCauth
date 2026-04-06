@@ -9,6 +9,11 @@
       "username": "user2",
       "password": "pass2",
       "expiry": "2026-05-01"
+    },
+    {
+      "username": "AGRIM",
+      "password": "69",
+      "expiry": "2026-04-10"
     }
   ]
 }
